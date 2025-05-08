@@ -1,5 +1,6 @@
 {
-    "version": "1.0",
+    "versionName": "1.0",
+    "versionCode": 1,
     "apk_url": "https://www.dropbox.com/s/tu_ruta_aqui/mi_app.apk?dl=1",
     "changelog": "Mejoras en el rendimiento y corrección de errores."
 }
